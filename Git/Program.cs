@@ -27,7 +27,7 @@ namespace SimpleCalculator
                          Subtract();
                         break;
                     case 3:
-                        
+                        Multiply();
                         break;
                     case 4:
                         Divide();   
@@ -71,5 +71,13 @@ namespace SimpleCalculator
             Console.WriteLine($"Kết quả: {a} / {b} = {a / b}");
         }
 
+        static void Multiply()
+        {
+            Console.Write("Nhập số thứ nhất: ");
+            double a = Convert.ToDouble(Console.ReadLine());
+            Console.Write("Nhập số thứ hai: ");
+            double b = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine($"Kết quả: {a} * {b} = {a * b}");
+        }
     }
 }
