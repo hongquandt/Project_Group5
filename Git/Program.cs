@@ -24,7 +24,7 @@ namespace SimpleCalculator
                         Add();
                         break;
                     case 2:
-                      
+                         Subtract();
                         break;
                     case 3:
                         
@@ -51,6 +51,14 @@ namespace SimpleCalculator
             Console.Write("Nhập số thứ hai: ");
             double b = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine($"Kết quả: {a} + {b} = {a + b}");
+        }
+         static void Subtract()
+        {
+            Console.Write("Nhập số thứ nhất: ");
+            double a = Convert.ToDouble(Console.ReadLine());
+            Console.Write("Nhập số thứ hai: ");
+            double b = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine($"Kết quả: {a} - {b} = {a - b}");
         }
 
         
