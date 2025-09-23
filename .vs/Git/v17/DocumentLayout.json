@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Ky5\\PRN213\\Git\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C34D16F-C2F9-460E-BBAB-B606BCFDE380}|Git\\Git.csproj|d:\\ky5\\prn213\\git\\git\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C34D16F-C2F9-460E-BBAB-B606BCFDE380}|Git\\Git.csproj|solutionrelative:git\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C34D16F-C2F9-460E-BBAB-B606BCFDE380}|Git\\SimpleCalculator.csproj|d:\\ky5\\prn213\\git\\git\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C34D16F-C2F9-460E-BBAB-B606BCFDE380}|Git\\SimpleCalculator.csproj|solutionrelative:git\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "Git\\Program.cs",
               "ToolTip": "D:\\Ky5\\PRN213\\Git\\Git\\Program.cs",
               "RelativeToolTip": "Git\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-23T02:11:04.299Z",
               "EditorCaption": ""
